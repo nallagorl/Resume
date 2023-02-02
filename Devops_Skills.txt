@@ -1,0 +1,13 @@
+Version Control Tools        :	Git,GitHub
+Build Management Tools       :	Maven
+Continuous Integration Tool  :	Jenkins
+Artifactory Repository	     :      Nexus
+Code Quality Assurance Tool  :	Sonarqube
+Configuration Management Tool:	Ansible
+Container Technology         :	Docker, kubernetes	
+Web/Application Server       :	Apache Web Server, Nginx, EKS Cluster
+ Scripting Languages         :	Shell, Python, Yaml Scripting	
+Cloud Technologies           :	AWS (EC2, S3, EBS, ELB, Route 53, VPC, IAM,EKS, ECR, cloud formation, Lambda, etc.)
+Operating Systems	           :      Ubuntu, Amazon Linux
+Monitor Tools	           :      Nagios
+IAC	                       :      Terraform

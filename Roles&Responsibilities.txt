@@ -1,0 +1,19 @@
+Having 5.4 yrs. of IT experience and 4+ years of experience with  DevOps.
+Creating CI/CD pipeline, Process Automation, Build and Deployment Automation, Release Management, Packaging Quality control, Source Code repository & Environment management.
+Experience in working as a DevOps Engineer / Software Continuous Integration, Continuous Delivery.
+Complete knowledge of DevOps and Automation Tools GIT (GitHub), Jenkins, Ansible, AWS, Kubernetes and Docker etc..
+Implemented Continuous Integration, Build and Deployment using various Tools like Jenkins, Maven, SonarQube, Ansible.
+Experience on Managing AWS services like EC2, AMI, VPC, EBS, S3, RDS, ELB,  and Cloud Watch, Auto-Scaling, Snapshots, Lambda, route53, IAM roles and policies. 
+Experience in implementing DevOps culture through CI/CD tool like Jenkins.
+Highly adept at designing, implementing and supporting cloud-based enterprise infrastructures. 
+Proven talent for administering, supporting and enhancing applications and hosting platforms. 
+Exceptional skills in quick, efficient debugging and root cause analysis (RCA). 
+Extensive success creating deployment scripts for lifecycle automation. Good understanding on Maven Goals and Maven Lifecycle.
+Experience in creating Jenkins file for Continuous integration Continuous deployment with all validations like Code coverage and Static code analysis using SonarQube. 
+Recognized for using Continuous Delivery and Agile Practices to deliver quality software.
+Extensive experience in setting up continues delivery pipeline using adoptive DevOpsprinciples and practices. 
+Configuring Networking, IGW, Subnets, Routing Tables, NACL’s using VPC in AWS.
+Experience in versioning systems like Git repository.
+Proven track record of supporting organizations to create seamless collaboration with development teams and operations (DevOps).
+Working with DEV, QA and UAT to ensure automated test efforts tightly integrated with the build system and in fixing the error while doing the Building and Deployment. 
+Experience in writing Docker files for building containerized applications.

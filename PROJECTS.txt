@@ -1,0 +1,48 @@
+Company		: DBS
+Environment	: Linux, Git, Maven, Jenkins, Ansible, Tomcat, AWS, Terraform, Nexus,   Sonarqube, Docker, Kubernetes	
+Role			: DevOps Engineer
+Duration		: Aug 2020 - Till Date
+Responsibilities:
+Configured Jenkins Jobs for generating Project artifacts.
+Configured Jenkins pipeline as per requirement.
+Maintain GIT Repositories, Branching activities for GIT.
+Responsible for taking the source code and compiling using Maven and package it in its distributable format, such as a WAR.
+Used docker containers for launching Sonarqube, Nexus, Ansible, Jenkins as per stakeholder requirement and working on those containers for CI/CD pipeline and for testing purpose.
+Integrating Sonarqube and Nexus with Jenkins and maven to execute the test reports and deploy the generated packages to deploy in Nexus repository.
+Perform deployments to multiple environments like DEV and TEST environments.
+Configuring Sonarqube and generating Sonarqube analysis report.
+Configuring Nexus and sending generated war files into Nexus server.
+Deploying the generated WAR files in Tomcat server.
+Capable of building Docker images such as Dockerfiles.
+Good knowledge on configuring and Installation of Ansible using Docker containers.
+Documenting all the Build and Deployment related issues.
+Working tightly with Developers team to resolve problem quickly.
+Setup CICD deployment process for Microservices using Docker, Jenkins and Kubernetes.
+Setup latency-based routing in AWS.
+Configure Docker containers.
+Troubleshooting server performance and AWS resource related issues.
+Good knowledge and hands on experience in Terraform.
+Setup and managed backup and recovery using snapshot.
+Create AMI images critical Ec2 instances as backup using GUI.
+Infra-structure development on AWS using various services like Ec2, S3, IAM etc.
+Attaching or Detaching EBS volume to AWS Ec2 instance.
+Worked on tickets assigned by the helpdesk.
+Launching and configuring of Amazon Ec2 (AWS) cloud servers using AMI’s (Linux) and configuring the servers for specified applications using Terraform.
+Know basic theory of understanding Kubernetes and understand the components in it.
+
+
+
+Company		: Plant fitness
+Environment		: Linux,  Git, Maven, Jenkins, Docker,Sonarqube,Nexus, Terraform
+Role			:  DevOps Engineer
+Duration		: July 2018– Aug 2020
+Responsibilities:
+Setting up the new build environment for various applications in Linux.
+Implementing Jenkins continuous integration tool including installing, setting the jobs and setting up the tool for deployment.
+Worked in container-based technologies like Docker.
+Involved in installing Jenkins on a Linux machine and creating a Master and Slave configuration to implement multiple parallel builds through a build.
+Configuring, Troubleshooting and Monitoring build jobs in Jenkins.
+Deploying WAR application on targeted managed servers by using Tomcat in Jenkins. 
+Configured Git with Jenkins and schedule jobs using POLL SCM option.
+Worked with the development team to generate deployment profiles (jar, war, ear) using Maven and Jenkins.
+Experience in designing a Terraform and deploying it in cloud deployment manager to spin up resources like cloud virtual networks.
